@@ -23,6 +23,7 @@ public class MypageController {
 	@Autowired
 	private MypageService mypageService;
 	
+	private String test ="";
 	//로그인
 
 	//마이페이지 조회
